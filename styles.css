@@ -1,0 +1,17 @@
+/*styles.css*/
+
+.buttonlink {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.buttonlink:hover {
+    background-color: darkblue;
+}
